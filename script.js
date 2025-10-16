@@ -4,7 +4,7 @@ const homeLink = document.getElementById('homeLink');
 const aboutLink = document.getElementById('aboutLink');
 const backBtn = document.getElementById('backBtn');
 const yearEl = document.getElementById('year');
-const buttomAtricle=document.getElementById('event');
+const buttomAtricle=document.querySelector('event');
 
 const articles = [
   {
